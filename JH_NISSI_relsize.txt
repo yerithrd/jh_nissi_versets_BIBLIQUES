@@ -1,0 +1,24 @@
+
+
+\relsize{i}
+\larger[i]
+\smaller[i]
+\relscale{f }
+\textlarger[i]{〈text〉}
+\textsmaller[i]{〈text〉}
+\textscale{f }{〈text〉} Change font size by i steps.
+Increase size by (optional) i steps (default 1).
+Reduce font size by i steps (default 1).
+Change font size by scale factor f .
+Text size enlarged by (optional) i steps.
+Text size reduced by (optional)
+
+
+
+{\relsize{-2} smaller}
+\larger and \smaller
+{\large... \larger{WOW!}}
+
+\textlarger and \textsmaller
+
+\textscale{〈factor〉}{〈text〉} and \relscale{〈factor〉}
